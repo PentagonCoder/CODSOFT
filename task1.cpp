@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
+    //Calculator program
+    cout << "Welcome to the calculator program!" << endl;
     //Input Two number 
     cout<<"enter first number :";
     int n;
@@ -40,5 +42,8 @@ int main(){
         break;
     }
     cout<<"thank you for using this calculator"<<endl;
+    cout << "Press Enter to exit...";
+    cin.ignore();
+    cin.get(); // Waits for user input before closing
     return 0;
 }
