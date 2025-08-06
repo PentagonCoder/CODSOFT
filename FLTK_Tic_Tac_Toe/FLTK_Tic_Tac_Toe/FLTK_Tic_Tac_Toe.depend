@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1754416363 source:c:\users\harsh sharma\onedrive\documents\github\codsoft\fltk_tic_tac_toe\fltk_tic_tac_toe\main.cpp
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Output.H>
+	<cstring>
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl.h
+	<FL/fl_config.h>
+	<FL/Fl_Export.H>
+	<FL/platform_types.h>
+	<FL/fl_casts.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<string.h>
+
+1754221515 c:\fltk-1.4.4-source\fltk-1.4.4\build\fl\fl_config.h
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_export.h
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\platform_types.h
+	<FL/fl_config.h>
+	<time.h>
+	<stddef.h>
+	<stdint.h>
+	<dirent.h>
+	<FL/Fl_Export.H>
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_casts.h
+	<FL/platform_types.h>
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_cairo.h
+	<FL/Fl.H>
+	<cairo.h>
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<sys/stat.h>
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_types.h
+	"fl_attr.h"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_attr.h
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\enumerations.h
+	<FL/fl_config.h>
+	"Fl_Export.H"
+	"fl_types.h"
+	<FL/platform_types.h>
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_window.h
+	<FL/Fl.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Bitmap.H>
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_group.h
+	"Fl_Widget.H"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_widget.h
+	"Fl.H"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_bitmap.h
+	"Fl_Image.H"
+	"Fl_Widget.H"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_image.h
+	"Enumerations.H"
+	"Fl_Widget.H"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_button.h
+	"Fl_Widget.H"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_output.h
+	"Fl_Input.H"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_input.h
+	"Fl_Input_.H"
+
+1752943510 c:\fltk-1.4.4-source\fltk-1.4.4\fl\fl_input_.h
+	"Fl_Widget.H"
+
